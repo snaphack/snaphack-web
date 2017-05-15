@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+test-upload.jpeg
+
+# include some default images
+# but ignore everything else
+snaps/*
+!snaps/jbott-1494293966764-4.png
+!snaps/lehigh-1494293949032-1.png
+!snaps/sforstefan-1494292783458-5.png
+!snaps/coreycap-1494292760941-4.mp4
