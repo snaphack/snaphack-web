@@ -7,7 +7,7 @@ var multer = require('multer');
 var app = express();
 
 var config = {
-  port: 3000
+  port: 80
 }
 
 var staticPath = path.join(__dirname, 'frontend/static');
